@@ -6,3 +6,5 @@ __pycache__/
 config.ini
 config.yaml
 *.log
+trading_bot.log
+backup/
