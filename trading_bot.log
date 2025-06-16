@@ -1,0 +1,1932 @@
+2025-06-10 02:18:05 - INFO - Ket noi den Binance API thanh cong!
+2025-06-10 02:18:05 - INFO - ==============================
+2025-06-10 02:18:05 - INFO - Bat dau chuong trinh theo doi tin hieu giao dich 
+2025-06-10 02:18:05 - INFO - Cap tien: BABYUSDT
+2025-06-10 02:18:05 - INFO - Khung thoi gian: 15m
+2025-06-10 02:18:05 - INFO - ==============================
+2025-06-10 02:18:05 - INFO - Phan tich BABYUSDT | Gia: 0.0665 | MA5: 0.0666 | MA10: 0.0666
+2025-06-10 02:18:06 - WARNING - MUA Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:18:08 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 02:37:32 - INFO - Ket noi den Binance API thanh cong!
+2025-06-10 02:37:32 - INFO - ==============================
+2025-06-10 02:37:33 - INFO - Bat dau chuong trinh theo doi tin hieu giao dich 
+2025-06-10 02:37:33 - INFO - Cap tien: BABYUSDT
+2025-06-10 02:37:33 - INFO - Khung thoi gian: 15m
+2025-06-10 02:37:33 - INFO - ==============================
+2025-06-10 02:37:33 - INFO - Phan tich BABYUSDT | Gia: 0.0670 | MA5: 0.0667 | MA10: 0.0667
+2025-06-10 02:37:33 - WARNING - ==================================================
+2025-06-10 02:37:42 - WARNING -  TIN HIEU HOP LE cho MUA: BABYUSDT | Gi: 0.0670 
+2025-06-10 02:37:42 - WARNING - Ly do: MA5 da cat len MA10 Va MA5 dang di len.
+2025-06-10 02:37:42 - WARNING - Gia tai thoi diem tin hieu: 0.0670
+2025-06-10 02:37:42 - WARNING - ==================================================
+2025-06-10 02:37:43 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA5: 0.0040 | MA10: 0.0040
+2025-06-10 02:37:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:37:46 - INFO - Phan tich UMAUSDT | Gia: 1.6210 | MA5: 1.6348 | MA10: 1.6312
+2025-06-10 02:37:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:37:46 - INFO - Phan tich SOPHUSDT | Gia: 0.0506 | MA5: 0.0506 | MA10: 0.0505
+2025-06-10 02:37:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:37:46 - INFO - Phan tich RVNUSDT | Gia: 0.0172 | MA5: 0.0172 | MA10: 0.0171
+2025-06-10 02:37:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:37:46 - INFO - Phan tich JSTUSDT | Gia: 0.0340 | MA5: 0.0340 | MA10: 0.0338
+2025-06-10 02:37:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:37:46 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 02:38:47 - INFO - Phan tich BABYUSDT | Gia: 0.0670 | MA5: 0.0667 | MA10: 0.0667
+2025-06-10 02:38:47 - WARNING - ==================================================
+2025-06-10 02:38:47 - WARNING -  TIN HIEU HOP LE cho MUA: BABYUSDT | Gi: 0.0670 
+2025-06-10 02:38:47 - WARNING - Ly do: MA5 da cat len MA10 Va MA5 dang di len.
+2025-06-10 02:38:47 - WARNING - Gia tai thoi diem tin hieu: 0.0670
+2025-06-10 02:38:47 - WARNING - ==================================================
+2025-06-10 02:38:47 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA5: 0.0040 | MA10: 0.0040
+2025-06-10 02:38:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:38:47 - INFO - Phan tich UMAUSDT | Gia: 1.6210 | MA5: 1.6348 | MA10: 1.6312
+2025-06-10 02:38:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:38:47 - INFO - Phan tich SOPHUSDT | Gia: 0.0506 | MA5: 0.0506 | MA10: 0.0505
+2025-06-10 02:38:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:38:48 - INFO - Phan tich RVNUSDT | Gia: 0.0172 | MA5: 0.0172 | MA10: 0.0171
+2025-06-10 02:38:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:38:48 - INFO - Phan tich JSTUSDT | Gia: 0.0340 | MA5: 0.0340 | MA10: 0.0338
+2025-06-10 02:38:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:38:48 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 02:39:48 - INFO - Phan tich BABYUSDT | Gia: 0.0670 | MA5: 0.0667 | MA10: 0.0667
+2025-06-10 02:39:48 - WARNING - ==================================================
+2025-06-10 02:39:48 - WARNING -  TIN HIEU HOP LE cho MUA: BABYUSDT | Gi: 0.0670 
+2025-06-10 02:39:48 - WARNING - Ly do: MA5 da cat len MA10 Va MA5 dang di len.
+2025-06-10 02:39:48 - WARNING - Gia tai thoi diem tin hieu: 0.0670
+2025-06-10 02:39:48 - WARNING - ==================================================
+2025-06-10 02:39:48 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA5: 0.0040 | MA10: 0.0040
+2025-06-10 02:39:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:39:49 - INFO - Phan tich UMAUSDT | Gia: 1.6210 | MA5: 1.6348 | MA10: 1.6312
+2025-06-10 02:39:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:39:49 - INFO - Phan tich SOPHUSDT | Gia: 0.0506 | MA5: 0.0506 | MA10: 0.0505
+2025-06-10 02:39:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:39:49 - INFO - Phan tich RVNUSDT | Gia: 0.0172 | MA5: 0.0172 | MA10: 0.0171
+2025-06-10 02:39:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:39:49 - INFO - Phan tich JSTUSDT | Gia: 0.0340 | MA5: 0.0340 | MA10: 0.0338
+2025-06-10 02:39:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:39:49 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 02:40:50 - INFO - Phan tich BABYUSDT | Gia: 0.0670 | MA5: 0.0667 | MA10: 0.0667
+2025-06-10 02:40:50 - WARNING - ==================================================
+2025-06-10 02:44:27 - WARNING -  TIN HIEU HOP LE cho MUA: BABYUSDT | Gi: 0.0670 
+2025-06-10 02:44:27 - WARNING - Ly do: MA5 da cat len MA10 Va MA5 dang di len.
+2025-06-10 02:44:27 - WARNING - Gia tai thoi diem tin hieu: 0.0670
+2025-06-10 02:44:27 - WARNING - ==================================================
+2025-06-10 02:44:27 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA5: 0.0040 | MA10: 0.0040
+2025-06-10 02:44:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:44:27 - INFO - Phan tich UMAUSDT | Gia: 1.6210 | MA5: 1.6348 | MA10: 1.6312
+2025-06-10 02:44:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:44:27 - INFO - Phan tich SOPHUSDT | Gia: 0.0506 | MA5: 0.0506 | MA10: 0.0505
+2025-06-10 02:44:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:44:28 - INFO - Phan tich RVNUSDT | Gia: 0.0172 | MA5: 0.0172 | MA10: 0.0171
+2025-06-10 02:44:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:44:28 - INFO - Phan tich JSTUSDT | Gia: 0.0340 | MA5: 0.0340 | MA10: 0.0338
+2025-06-10 02:44:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:44:28 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 02:45:28 - INFO - Phan tich BABYUSDT | Gia: 0.0667 | MA5: 0.0667 | MA10: 0.0667
+2025-06-10 02:45:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:45:28 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA5: 0.0040 | MA10: 0.0040
+2025-06-10 02:45:28 - WARNING - ==================================================
+2025-06-10 02:50:32 - INFO - Ket noi den Binance API thanh cong!
+2025-06-10 02:50:32 - INFO - ==============================
+2025-06-10 02:50:32 - INFO - Bat dau chuong trinh theo doi tin hieu giao dich 
+2025-06-10 02:50:32 - INFO - Cap tien: BABYUSDT
+2025-06-10 02:50:32 - INFO - Khung thoi gian: 15m
+2025-06-10 02:50:32 - INFO - ==============================
+2025-06-10 02:50:32 - INFO - Phan tich BABYUSDT | Gia: 0.0667 | MA7: 0.0667 | MA25: 0.0662
+2025-06-10 02:50:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:50:33 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA7: 0.0040 | MA25: 0.0040
+2025-06-10 02:50:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:50:33 - INFO - Phan tich UMAUSDT | Gia: 1.6070 | MA7: 1.6321 | MA25: 1.6360
+2025-06-10 02:50:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:50:33 - INFO - Phan tich SOPHUSDT | Gia: 0.0504 | MA7: 0.0505 | MA25: 0.0501
+2025-06-10 02:50:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:50:33 - INFO - Phan tich RVNUSDT | Gia: 0.0175 | MA7: 0.0172 | MA25: 0.0172
+2025-06-10 02:50:33 - WARNING - ==================================================
+2025-06-10 02:51:37 - WARNING -  TIN HIEU HOP LE cho MUA: RVNUSDT | Gi: 0.0175 
+2025-06-10 02:51:37 - WARNING - Ly do: MA7 da cat len MA25 Va MA7 dang di len.
+2025-06-10 02:51:37 - WARNING - Gia tai thoi diem tin hieu: 0.0175
+2025-06-10 02:51:37 - WARNING - ==================================================
+2025-06-10 02:51:37 - INFO - Phan tich JSTUSDT | Gia: 0.0340 | MA7: 0.0339 | MA25: 0.0337
+2025-06-10 02:51:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:51:37 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 02:52:37 - INFO - Phan tich BABYUSDT | Gia: 0.0667 | MA7: 0.0667 | MA25: 0.0662
+2025-06-10 02:52:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:52:37 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA7: 0.0040 | MA25: 0.0040
+2025-06-10 02:52:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:52:38 - INFO - Phan tich UMAUSDT | Gia: 1.6070 | MA7: 1.6321 | MA25: 1.6360
+2025-06-10 02:52:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:52:38 - INFO - Phan tich SOPHUSDT | Gia: 0.0504 | MA7: 0.0505 | MA25: 0.0501
+2025-06-10 02:52:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:52:38 - INFO - Phan tich RVNUSDT | Gia: 0.0175 | MA7: 0.0172 | MA25: 0.0172
+2025-06-10 02:52:38 - WARNING - ==================================================
+2025-06-10 02:53:07 - WARNING -  TIN HIEU HOP LE cho MUA: RVNUSDT | Gi: 0.0175 
+2025-06-10 02:54:06 - WARNING - Ly do: MA7 da cat len MA25 Va MA7 dang di len.
+2025-06-10 02:54:10 - WARNING - Gia tai thoi diem tin hieu: 0.0175
+2025-06-10 02:54:10 - WARNING - ==================================================
+2025-06-10 02:54:11 - INFO - Phan tich JSTUSDT | Gia: 0.0340 | MA7: 0.0339 | MA25: 0.0337
+2025-06-10 02:54:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:54:11 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 02:55:11 - INFO - Phan tich BABYUSDT | Gia: 0.0667 | MA7: 0.0667 | MA25: 0.0662
+2025-06-10 02:55:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:55:11 - INFO - Phan tich IOSTUSDT | Gia: 0.0040 | MA7: 0.0040 | MA25: 0.0040
+2025-06-10 02:55:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:55:11 - INFO - Phan tich UMAUSDT | Gia: 1.6070 | MA7: 1.6321 | MA25: 1.6360
+2025-06-10 02:55:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:55:11 - INFO - Phan tich SOPHUSDT | Gia: 0.0504 | MA7: 0.0505 | MA25: 0.0501
+2025-06-10 02:55:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 02:55:12 - INFO - Phan tich RVNUSDT | Gia: 0.0175 | MA7: 0.0172 | MA25: 0.0172
+2025-06-10 02:55:12 - WARNING - ==================================================
+2025-06-10 21:52:13 - INFO - Ket noi den Binance API thanh cong!
+2025-06-10 21:52:13 - INFO - ==============================
+2025-06-10 21:52:13 - INFO - Bat dau chuong trinh theo doi tin hieu giao dich 
+2025-06-10 21:52:13 - INFO - Cap tien: BABYUSDT
+2025-06-10 21:52:13 - INFO - Khung thoi gian: 15m
+2025-06-10 21:52:13 - INFO - ==============================
+2025-06-10 21:52:13 - INFO - Phan tich BABYUSDT | Gia: 0.0689 | MA7: 0.0698 | MA25: 0.0696
+2025-06-10 21:52:13 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:52:14 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:52:14 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:52:14 - INFO - Phan tich UMAUSDT | Gia: 1.5090 | MA7: 1.5340 | MA25: 1.5374
+2025-06-10 21:52:14 - WARNING - ==================================================
+2025-06-10 21:52:14 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5090
+2025-06-10 21:52:14 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:52:14 - WARNING - Gia tai thoi diem tin hieu: 1.5090
+2025-06-10 21:52:14 - WARNING - ==================================================
+2025-06-10 21:52:14 - INFO - Phan tich SOPHUSDT | Gia: 0.0524 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:52:14 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:52:14 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:52:14 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:52:15 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:52:15 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:52:15 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 21:53:15 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0699 | MA25: 0.0696
+2025-06-10 21:53:15 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:53:15 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:53:15 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:53:15 - INFO - Phan tich UMAUSDT | Gia: 1.5170 | MA7: 1.5351 | MA25: 1.5377
+2025-06-10 21:53:15 - WARNING - ==================================================
+2025-06-10 21:53:15 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5170
+2025-06-10 21:53:15 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:53:15 - WARNING - Gia tai thoi diem tin hieu: 1.5170
+2025-06-10 21:53:15 - WARNING - ==================================================
+2025-06-10 21:53:16 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:53:16 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:53:16 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:53:16 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:53:16 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:53:16 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:53:16 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 21:54:16 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0699 | MA25: 0.0696
+2025-06-10 21:54:16 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:54:17 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:54:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:54:17 - INFO - Phan tich UMAUSDT | Gia: 1.5190 | MA7: 1.5354 | MA25: 1.5378
+2025-06-10 21:54:17 - WARNING - ==================================================
+2025-06-10 21:54:17 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5190
+2025-06-10 21:54:17 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:54:17 - WARNING - Gia tai thoi diem tin hieu: 1.5190
+2025-06-10 21:54:17 - WARNING - ==================================================
+2025-06-10 21:54:17 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:54:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:54:17 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:54:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:54:17 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:54:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:54:17 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 21:55:18 - INFO - Phan tich BABYUSDT | Gia: 0.0692 | MA7: 0.0699 | MA25: 0.0696
+2025-06-10 21:55:18 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:55:18 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:55:18 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:55:18 - INFO - Phan tich UMAUSDT | Gia: 1.5150 | MA7: 1.5349 | MA25: 1.5376
+2025-06-10 21:55:18 - WARNING - ==================================================
+2025-06-10 21:55:18 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5150
+2025-06-10 21:55:18 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:55:18 - WARNING - Gia tai thoi diem tin hieu: 1.5150
+2025-06-10 21:55:18 - WARNING - ==================================================
+2025-06-10 21:55:19 - INFO - Phan tich SOPHUSDT | Gia: 0.0525 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:55:19 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:55:19 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:55:19 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:55:19 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:55:19 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:55:19 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 21:56:19 - INFO - Phan tich BABYUSDT | Gia: 0.0692 | MA7: 0.0699 | MA25: 0.0696
+2025-06-10 21:56:19 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:56:20 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:56:20 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:56:20 - INFO - Phan tich UMAUSDT | Gia: 1.5080 | MA7: 1.5339 | MA25: 1.5373
+2025-06-10 21:56:20 - WARNING - ==================================================
+2025-06-10 21:56:20 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5080
+2025-06-10 21:56:20 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:56:20 - WARNING - Gia tai thoi diem tin hieu: 1.5080
+2025-06-10 21:56:20 - WARNING - ==================================================
+2025-06-10 21:56:20 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:56:20 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:56:20 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:56:20 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:56:21 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:56:21 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:56:21 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 21:57:21 - INFO - Phan tich BABYUSDT | Gia: 0.0694 | MA7: 0.0699 | MA25: 0.0696
+2025-06-10 21:57:21 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:57:21 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:57:21 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:57:21 - INFO - Phan tich UMAUSDT | Gia: 1.5140 | MA7: 1.5347 | MA25: 1.5376
+2025-06-10 21:57:21 - WARNING - ==================================================
+2025-06-10 21:57:21 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5140
+2025-06-10 21:57:21 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:57:21 - WARNING - Gia tai thoi diem tin hieu: 1.5140
+2025-06-10 21:57:21 - WARNING - ==================================================
+2025-06-10 21:57:22 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:57:22 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:57:22 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:57:22 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:57:22 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:57:22 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:57:22 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 21:58:22 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0699 | MA25: 0.0696
+2025-06-10 21:58:22 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:58:23 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:58:23 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:58:23 - INFO - Phan tich UMAUSDT | Gia: 1.5130 | MA7: 1.5346 | MA25: 1.5375
+2025-06-10 21:58:23 - WARNING - ==================================================
+2025-06-10 21:58:23 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5130
+2025-06-10 21:58:23 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:58:23 - WARNING - Gia tai thoi diem tin hieu: 1.5130
+2025-06-10 21:58:23 - WARNING - ==================================================
+2025-06-10 21:58:23 - INFO - Phan tich SOPHUSDT | Gia: 0.0525 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:58:23 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:58:23 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:58:23 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:58:24 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:58:24 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:58:24 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 21:59:24 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0699 | MA25: 0.0696
+2025-06-10 21:59:24 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:59:24 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 21:59:24 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:59:24 - INFO - Phan tich UMAUSDT | Gia: 1.5100 | MA7: 1.5341 | MA25: 1.5374
+2025-06-10 21:59:24 - WARNING - ==================================================
+2025-06-10 21:59:24 - WARNING -  TIN HIEU HOP LE cho BAN: UMAUSDT | Gi: 1.5100
+2025-06-10 21:59:24 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 21:59:24 - WARNING - Gia tai thoi diem tin hieu: 1.5100
+2025-06-10 21:59:24 - WARNING - ==================================================
+2025-06-10 21:59:25 - INFO - Phan tich SOPHUSDT | Gia: 0.0525 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 21:59:25 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:59:25 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 21:59:25 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:59:25 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0345
+2025-06-10 21:59:25 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 21:59:25 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:00:25 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0696
+2025-06-10 22:00:25 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:00:26 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:00:26 - WARNING - ==================================================
+2025-06-10 22:00:26 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:00:26 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:00:26 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:00:26 - WARNING - ==================================================
+2025-06-10 22:00:26 - INFO - Phan tich UMAUSDT | Gia: 1.5100 | MA7: 1.5290 | MA25: 1.5362
+2025-06-10 22:00:26 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:00:26 - INFO - Phan tich SOPHUSDT | Gia: 0.0525 | MA7: 0.0526 | MA25: 0.0534
+2025-06-10 22:00:26 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:00:26 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:00:26 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:00:27 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:00:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:00:27 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:01:27 - INFO - Phan tich BABYUSDT | Gia: 0.0692 | MA7: 0.0697 | MA25: 0.0696
+2025-06-10 22:01:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:01:27 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:01:27 - WARNING - ==================================================
+2025-06-10 22:01:27 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:01:27 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:01:27 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:01:27 - WARNING - ==================================================
+2025-06-10 22:01:27 - INFO - Phan tich UMAUSDT | Gia: 1.5100 | MA7: 1.5290 | MA25: 1.5362
+2025-06-10 22:01:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:01:28 - INFO - Phan tich SOPHUSDT | Gia: 0.0525 | MA7: 0.0526 | MA25: 0.0534
+2025-06-10 22:01:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:01:28 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:01:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:01:28 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:01:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:01:28 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:02:28 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0696
+2025-06-10 22:02:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:02:29 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:02:29 - WARNING - ==================================================
+2025-06-10 22:02:29 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:02:29 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:02:29 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:02:29 - WARNING - ==================================================
+2025-06-10 22:02:29 - INFO - Phan tich UMAUSDT | Gia: 1.5120 | MA7: 1.5293 | MA25: 1.5362
+2025-06-10 22:02:29 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:02:29 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:02:29 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:02:29 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:02:29 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:02:30 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:02:30 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:02:30 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:03:30 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0696
+2025-06-10 22:03:30 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:03:30 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:03:30 - WARNING - ==================================================
+2025-06-10 22:03:30 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:03:30 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:03:30 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:03:30 - WARNING - ==================================================
+2025-06-10 22:03:30 - INFO - Phan tich UMAUSDT | Gia: 1.5110 | MA7: 1.5291 | MA25: 1.5362
+2025-06-10 22:03:30 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:03:31 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:03:31 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:03:31 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:03:31 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:03:31 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:03:31 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:03:31 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:04:31 - INFO - Phan tich BABYUSDT | Gia: 0.0692 | MA7: 0.0697 | MA25: 0.0696
+2025-06-10 22:04:31 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:04:32 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:04:32 - WARNING - ==================================================
+2025-06-10 22:04:32 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:04:32 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:04:32 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:04:32 - WARNING - ==================================================
+2025-06-10 22:04:32 - INFO - Phan tich UMAUSDT | Gia: 1.5090 | MA7: 1.5289 | MA25: 1.5361
+2025-06-10 22:04:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:04:32 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:04:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:04:32 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:04:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:04:33 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:04:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:04:33 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:05:33 - INFO - Phan tich BABYUSDT | Gia: 0.0694 | MA7: 0.0697 | MA25: 0.0696
+2025-06-10 22:05:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:05:33 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:05:33 - WARNING - ==================================================
+2025-06-10 22:05:33 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:05:33 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:05:33 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:05:33 - WARNING - ==================================================
+2025-06-10 22:05:33 - INFO - Phan tich UMAUSDT | Gia: 1.5100 | MA7: 1.5290 | MA25: 1.5362
+2025-06-10 22:05:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:05:34 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:05:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:05:34 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:05:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:05:34 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:05:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:05:34 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:06:34 - INFO - Phan tich BABYUSDT | Gia: 0.0695 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:06:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:06:35 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:06:35 - WARNING - ==================================================
+2025-06-10 22:06:35 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:06:35 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:06:35 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:06:35 - WARNING - ==================================================
+2025-06-10 22:06:35 - INFO - Phan tich UMAUSDT | Gia: 1.5150 | MA7: 1.5297 | MA25: 1.5364
+2025-06-10 22:06:35 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:06:35 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:06:35 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:06:35 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:06:35 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:06:36 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:06:36 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:06:36 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:07:36 - INFO - Phan tich BABYUSDT | Gia: 0.0696 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:07:36 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:07:36 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:07:36 - WARNING - ==================================================
+2025-06-10 22:07:36 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:07:36 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:07:36 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:07:36 - WARNING - ==================================================
+2025-06-10 22:07:36 - INFO - Phan tich UMAUSDT | Gia: 1.5150 | MA7: 1.5297 | MA25: 1.5364
+2025-06-10 22:07:36 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:07:37 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:07:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:07:37 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:07:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:07:37 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:07:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:07:37 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:08:37 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:08:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:08:38 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:08:38 - WARNING - ==================================================
+2025-06-10 22:08:38 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:08:38 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:08:38 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:08:38 - WARNING - ==================================================
+2025-06-10 22:08:38 - INFO - Phan tich UMAUSDT | Gia: 1.5200 | MA7: 1.5304 | MA25: 1.5366
+2025-06-10 22:08:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:08:38 - INFO - Phan tich SOPHUSDT | Gia: 0.0530 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:08:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:08:38 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:08:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:08:39 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:08:39 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:08:39 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:09:39 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:09:39 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:09:39 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:09:39 - WARNING - ==================================================
+2025-06-10 22:09:39 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:09:39 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:09:39 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:09:39 - WARNING - ==================================================
+2025-06-10 22:09:39 - INFO - Phan tich UMAUSDT | Gia: 1.5210 | MA7: 1.5306 | MA25: 1.5366
+2025-06-10 22:09:39 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:09:40 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:09:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:09:40 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:09:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:09:40 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:09:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:09:40 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:10:40 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:10:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:10:41 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:10:41 - WARNING - ==================================================
+2025-06-10 22:10:41 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:10:41 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:10:41 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:10:41 - WARNING - ==================================================
+2025-06-10 22:10:41 - INFO - Phan tich UMAUSDT | Gia: 1.5200 | MA7: 1.5304 | MA25: 1.5366
+2025-06-10 22:10:41 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:10:41 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:10:41 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:10:41 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:10:41 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:10:42 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:10:42 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:10:42 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:11:42 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:11:42 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:11:42 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:11:42 - WARNING - ==================================================
+2025-06-10 22:11:42 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:11:42 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:11:42 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:11:42 - WARNING - ==================================================
+2025-06-10 22:11:42 - INFO - Phan tich UMAUSDT | Gia: 1.5210 | MA7: 1.5306 | MA25: 1.5366
+2025-06-10 22:11:42 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:11:43 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:11:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:11:43 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:11:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:11:43 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:11:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:11:43 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:12:44 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:12:44 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:12:44 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:12:44 - WARNING - ==================================================
+2025-06-10 22:12:44 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:12:44 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:12:44 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:12:44 - WARNING - ==================================================
+2025-06-10 22:12:44 - INFO - Phan tich UMAUSDT | Gia: 1.5230 | MA7: 1.5309 | MA25: 1.5367
+2025-06-10 22:12:44 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:12:44 - INFO - Phan tich SOPHUSDT | Gia: 0.0530 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:12:44 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:12:45 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:12:45 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:12:45 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:12:45 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:12:45 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:13:45 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:13:45 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:13:46 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:13:46 - WARNING - ==================================================
+2025-06-10 22:13:46 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:13:46 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:13:46 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:13:46 - WARNING - ==================================================
+2025-06-10 22:13:46 - INFO - Phan tich UMAUSDT | Gia: 1.5240 | MA7: 1.5310 | MA25: 1.5367
+2025-06-10 22:13:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:13:46 - INFO - Phan tich SOPHUSDT | Gia: 0.0531 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:13:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:13:46 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:13:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:13:47 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:13:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:13:47 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:14:47 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:14:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:14:47 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:14:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:14:47 - INFO - Phan tich UMAUSDT | Gia: 1.5270 | MA7: 1.5314 | MA25: 1.5368
+2025-06-10 22:14:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:14:48 - INFO - Phan tich SOPHUSDT | Gia: 0.0532 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:14:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:14:48 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:14:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:14:48 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:14:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:14:48 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:15:48 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:15:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:15:49 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:15:49 - WARNING - ==================================================
+2025-06-10 22:15:49 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:15:49 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:15:49 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:15:49 - WARNING - ==================================================
+2025-06-10 22:15:49 - INFO - Phan tich UMAUSDT | Gia: 1.5240 | MA7: 1.5299 | MA25: 1.5361
+2025-06-10 22:15:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:15:49 - INFO - Phan tich SOPHUSDT | Gia: 0.0532 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:15:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:15:49 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:15:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:15:50 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:15:50 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:15:50 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:16:50 - INFO - Phan tich BABYUSDT | Gia: 0.0700 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:16:50 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:16:50 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:16:50 - WARNING - ==================================================
+2025-06-10 22:16:50 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:16:50 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:16:50 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:16:50 - WARNING - ==================================================
+2025-06-10 22:16:51 - INFO - Phan tich UMAUSDT | Gia: 1.5260 | MA7: 1.5301 | MA25: 1.5362
+2025-06-10 22:16:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:16:51 - INFO - Phan tich SOPHUSDT | Gia: 0.0533 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:16:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:16:51 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:16:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:16:51 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:16:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:16:51 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:17:52 - INFO - Phan tich BABYUSDT | Gia: 0.0700 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:17:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:17:52 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:17:52 - WARNING - ==================================================
+2025-06-10 22:17:52 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:17:52 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:17:52 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:17:52 - WARNING - ==================================================
+2025-06-10 22:17:52 - INFO - Phan tich UMAUSDT | Gia: 1.5250 | MA7: 1.5300 | MA25: 1.5362
+2025-06-10 22:17:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:17:52 - INFO - Phan tich SOPHUSDT | Gia: 0.0532 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:17:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:17:53 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:17:53 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:17:53 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:17:53 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:17:53 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:18:53 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:18:53 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:18:53 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:18:53 - WARNING - ==================================================
+2025-06-10 22:18:53 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:18:53 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:18:53 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:18:53 - WARNING - ==================================================
+2025-06-10 22:18:54 - INFO - Phan tich UMAUSDT | Gia: 1.5250 | MA7: 1.5300 | MA25: 1.5362
+2025-06-10 22:18:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:18:54 - INFO - Phan tich SOPHUSDT | Gia: 0.0532 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:18:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:18:54 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:18:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:18:54 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:18:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:18:54 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:19:55 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:19:55 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:19:55 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:19:55 - WARNING - ==================================================
+2025-06-10 22:19:55 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:19:55 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:19:55 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:19:55 - WARNING - ==================================================
+2025-06-10 22:19:55 - INFO - Phan tich UMAUSDT | Gia: 1.5230 | MA7: 1.5297 | MA25: 1.5361
+2025-06-10 22:19:55 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:19:55 - INFO - Phan tich SOPHUSDT | Gia: 0.0532 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:19:55 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:19:56 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:19:56 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:19:56 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:19:56 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:19:56 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:20:56 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:20:56 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:20:56 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:20:56 - WARNING - ==================================================
+2025-06-10 22:20:56 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:20:56 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:20:56 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:20:56 - WARNING - ==================================================
+2025-06-10 22:20:57 - INFO - Phan tich UMAUSDT | Gia: 1.5300 | MA7: 1.5307 | MA25: 1.5364
+2025-06-10 22:20:57 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:20:57 - INFO - Phan tich SOPHUSDT | Gia: 0.0533 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:20:57 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:20:57 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:20:57 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:20:58 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:20:58 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:20:58 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:21:58 - INFO - Phan tich BABYUSDT | Gia: 0.0700 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:21:58 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:21:58 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:21:58 - WARNING - ==================================================
+2025-06-10 22:21:58 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:21:58 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:21:58 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:21:58 - WARNING - ==================================================
+2025-06-10 22:21:58 - INFO - Phan tich UMAUSDT | Gia: 1.5290 | MA7: 1.5306 | MA25: 1.5363
+2025-06-10 22:21:58 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:21:59 - INFO - Phan tich SOPHUSDT | Gia: 0.0532 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:21:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:21:59 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:21:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:21:59 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:21:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:21:59 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:22:59 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:22:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:23:00 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:23:00 - WARNING - ==================================================
+2025-06-10 22:23:00 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:23:00 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:23:00 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:23:00 - WARNING - ==================================================
+2025-06-10 22:23:00 - INFO - Phan tich UMAUSDT | Gia: 1.5260 | MA7: 1.5301 | MA25: 1.5362
+2025-06-10 22:23:00 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:23:00 - INFO - Phan tich SOPHUSDT | Gia: 0.0530 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:23:00 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:23:00 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:23:00 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:23:01 - INFO - Phan tich JSTUSDT | Gia: 0.0351 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:23:01 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:23:01 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:24:01 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:24:01 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:24:01 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:24:01 - WARNING - ==================================================
+2025-06-10 22:24:01 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:24:01 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:24:01 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:24:01 - WARNING - ==================================================
+2025-06-10 22:24:01 - INFO - Phan tich UMAUSDT | Gia: 1.5220 | MA7: 1.5296 | MA25: 1.5360
+2025-06-10 22:24:01 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:24:02 - INFO - Phan tich SOPHUSDT | Gia: 0.0530 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:24:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:24:02 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:24:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:24:02 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:24:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:24:02 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:25:02 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:25:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:25:03 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:25:03 - WARNING - ==================================================
+2025-06-10 22:25:03 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:25:03 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:25:03 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:25:03 - WARNING - ==================================================
+2025-06-10 22:25:03 - INFO - Phan tich UMAUSDT | Gia: 1.5230 | MA7: 1.5297 | MA25: 1.5361
+2025-06-10 22:25:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:25:03 - INFO - Phan tich SOPHUSDT | Gia: 0.0530 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:25:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:25:03 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:25:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:25:04 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:25:04 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:25:04 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:26:04 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:26:04 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:26:04 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:26:04 - WARNING - ==================================================
+2025-06-10 22:26:04 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:26:04 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:26:04 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:26:04 - WARNING - ==================================================
+2025-06-10 22:26:05 - INFO - Phan tich UMAUSDT | Gia: 1.5270 | MA7: 1.5303 | MA25: 1.5362
+2025-06-10 22:26:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:26:05 - INFO - Phan tich SOPHUSDT | Gia: 0.0530 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:26:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:26:05 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0186 | MA25: 0.0188
+2025-06-10 22:26:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:26:05 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:26:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:26:05 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:27:06 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:27:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:27:06 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:27:06 - WARNING - ==================================================
+2025-06-10 22:27:06 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:27:06 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:27:06 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:27:06 - WARNING - ==================================================
+2025-06-10 22:27:06 - INFO - Phan tich UMAUSDT | Gia: 1.5310 | MA7: 1.5309 | MA25: 1.5364
+2025-06-10 22:27:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:27:06 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:27:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:27:07 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:27:07 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:27:07 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:27:07 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:27:07 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:28:07 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:28:07 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:28:07 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:28:07 - WARNING - ==================================================
+2025-06-10 22:28:07 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:28:07 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:28:07 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:28:07 - WARNING - ==================================================
+2025-06-10 22:28:08 - INFO - Phan tich UMAUSDT | Gia: 1.5290 | MA7: 1.5306 | MA25: 1.5363
+2025-06-10 22:28:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:28:08 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:28:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:28:08 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:28:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:28:08 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:28:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:28:08 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:29:09 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0698 | MA25: 0.0697
+2025-06-10 22:29:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:29:09 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:29:09 - WARNING - ==================================================
+2025-06-10 22:29:09 - WARNING -  TIN HIEU HOP LE cho BAN: IOSTUSDT | Gi: 0.0042
+2025-06-10 22:29:09 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:29:09 - WARNING - Gia tai thoi diem tin hieu: 0.0042
+2025-06-10 22:29:09 - WARNING - ==================================================
+2025-06-10 22:29:09 - INFO - Phan tich UMAUSDT | Gia: 1.5300 | MA7: 1.5307 | MA25: 1.5364
+2025-06-10 22:29:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:29:09 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0534
+2025-06-10 22:29:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:29:10 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:29:10 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:29:10 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0346
+2025-06-10 22:29:10 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:29:10 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:30:10 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:30:10 - WARNING - ==================================================
+2025-06-10 22:30:10 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0697
+2025-06-10 22:30:10 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:30:10 - WARNING - Gia tai thoi diem tin hieu: 0.0697
+2025-06-10 22:30:10 - WARNING - ==================================================
+2025-06-10 22:30:11 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:30:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:30:11 - INFO - Phan tich UMAUSDT | Gia: 1.5300 | MA7: 1.5301 | MA25: 1.5361
+2025-06-10 22:30:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:30:11 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:30:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:30:11 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:30:11 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:30:12 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:30:12 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:30:12 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:31:12 - INFO - Phan tich BABYUSDT | Gia: 0.0694 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:31:12 - WARNING - ==================================================
+2025-06-10 22:31:12 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0694
+2025-06-10 22:31:12 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:31:12 - WARNING - Gia tai thoi diem tin hieu: 0.0694
+2025-06-10 22:31:12 - WARNING - ==================================================
+2025-06-10 22:31:12 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:31:12 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:31:12 - INFO - Phan tich UMAUSDT | Gia: 1.5210 | MA7: 1.5289 | MA25: 1.5357
+2025-06-10 22:31:12 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:31:13 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:31:13 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:31:13 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:31:13 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:31:13 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:31:13 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:31:13 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:32:13 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:32:13 - WARNING - ==================================================
+2025-06-10 22:32:13 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0693
+2025-06-10 22:32:13 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:32:13 - WARNING - Gia tai thoi diem tin hieu: 0.0693
+2025-06-10 22:32:13 - WARNING - ==================================================
+2025-06-10 22:32:14 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:32:14 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:32:14 - INFO - Phan tich UMAUSDT | Gia: 1.5220 | MA7: 1.5290 | MA25: 1.5358
+2025-06-10 22:32:14 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:32:14 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:32:14 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:32:14 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:32:14 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:32:15 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:32:15 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:32:15 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:33:15 - INFO - Phan tich BABYUSDT | Gia: 0.0689 | MA7: 0.0696 | MA25: 0.0697
+2025-06-10 22:33:15 - WARNING - ==================================================
+2025-06-10 22:33:15 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0689
+2025-06-10 22:33:15 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:33:15 - WARNING - Gia tai thoi diem tin hieu: 0.0689
+2025-06-10 22:33:15 - WARNING - ==================================================
+2025-06-10 22:33:15 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:33:15 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:33:15 - INFO - Phan tich UMAUSDT | Gia: 1.5110 | MA7: 1.5274 | MA25: 1.5353
+2025-06-10 22:33:15 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:33:15 - INFO - Phan tich SOPHUSDT | Gia: 0.0524 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:33:15 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:33:16 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:33:16 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:33:16 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:33:16 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:33:16 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:34:16 - INFO - Phan tich BABYUSDT | Gia: 0.0688 | MA7: 0.0696 | MA25: 0.0697
+2025-06-10 22:34:16 - WARNING - ==================================================
+2025-06-10 22:34:16 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0688
+2025-06-10 22:34:16 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:34:16 - WARNING - Gia tai thoi diem tin hieu: 0.0688
+2025-06-10 22:34:16 - WARNING - ==================================================
+2025-06-10 22:34:16 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:34:16 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:34:17 - INFO - Phan tich UMAUSDT | Gia: 1.5100 | MA7: 1.5273 | MA25: 1.5353
+2025-06-10 22:34:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:34:17 - INFO - Phan tich SOPHUSDT | Gia: 0.0524 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:34:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:34:17 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:34:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:34:17 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:34:17 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:34:17 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:35:18 - INFO - Phan tich BABYUSDT | Gia: 0.0689 | MA7: 0.0696 | MA25: 0.0697
+2025-06-10 22:35:18 - WARNING - ==================================================
+2025-06-10 22:35:18 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0689
+2025-06-10 22:35:18 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:35:18 - WARNING - Gia tai thoi diem tin hieu: 0.0689
+2025-06-10 22:35:18 - WARNING - ==================================================
+2025-06-10 22:35:18 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:35:18 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:35:18 - INFO - Phan tich UMAUSDT | Gia: 1.5100 | MA7: 1.5273 | MA25: 1.5353
+2025-06-10 22:35:18 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:35:18 - INFO - Phan tich SOPHUSDT | Gia: 0.0525 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:35:18 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:35:19 - INFO - Phan tich RVNUSDT | Gia: 0.0185 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:35:19 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:35:19 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:35:19 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:35:19 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:36:19 - INFO - Phan tich BABYUSDT | Gia: 0.0691 | MA7: 0.0696 | MA25: 0.0697
+2025-06-10 22:36:19 - WARNING - ==================================================
+2025-06-10 22:36:19 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0691
+2025-06-10 22:36:19 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:36:19 - WARNING - Gia tai thoi diem tin hieu: 0.0691
+2025-06-10 22:36:19 - WARNING - ==================================================
+2025-06-10 22:36:19 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:36:19 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:36:20 - INFO - Phan tich UMAUSDT | Gia: 1.5150 | MA7: 1.5280 | MA25: 1.5355
+2025-06-10 22:36:20 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:36:20 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:36:20 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:36:20 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:36:20 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:36:20 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:36:20 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:36:20 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:37:21 - INFO - Phan tich BABYUSDT | Gia: 0.0692 | MA7: 0.0696 | MA25: 0.0697
+2025-06-10 22:37:21 - WARNING - ==================================================
+2025-06-10 22:37:21 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0692
+2025-06-10 22:37:21 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:37:21 - WARNING - Gia tai thoi diem tin hieu: 0.0692
+2025-06-10 22:37:21 - WARNING - ==================================================
+2025-06-10 22:37:21 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:37:21 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:37:21 - INFO - Phan tich UMAUSDT | Gia: 1.5120 | MA7: 1.5276 | MA25: 1.5354
+2025-06-10 22:37:21 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:37:21 - INFO - Phan tich SOPHUSDT | Gia: 0.0526 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:37:21 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:37:22 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:37:22 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:37:22 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:37:22 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:37:22 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:38:22 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:38:22 - WARNING - ==================================================
+2025-06-10 22:38:22 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0693
+2025-06-10 22:38:22 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:38:22 - WARNING - Gia tai thoi diem tin hieu: 0.0693
+2025-06-10 22:38:22 - WARNING - ==================================================
+2025-06-10 22:38:22 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:38:22 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:38:23 - INFO - Phan tich UMAUSDT | Gia: 1.5150 | MA7: 1.5280 | MA25: 1.5355
+2025-06-10 22:38:23 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:38:23 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:38:23 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:38:23 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:38:23 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:38:23 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:38:23 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:38:23 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:39:24 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:39:24 - WARNING - ==================================================
+2025-06-10 22:39:24 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0693
+2025-06-10 22:39:24 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:39:24 - WARNING - Gia tai thoi diem tin hieu: 0.0693
+2025-06-10 22:39:24 - WARNING - ==================================================
+2025-06-10 22:39:24 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:39:24 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:39:24 - INFO - Phan tich UMAUSDT | Gia: 1.5150 | MA7: 1.5280 | MA25: 1.5355
+2025-06-10 22:39:24 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:39:24 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:39:24 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:39:25 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:39:25 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:39:25 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:39:25 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:39:25 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:40:25 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:40:25 - WARNING - ==================================================
+2025-06-10 22:40:25 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0693
+2025-06-10 22:40:25 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:40:25 - WARNING - Gia tai thoi diem tin hieu: 0.0693
+2025-06-10 22:40:25 - WARNING - ==================================================
+2025-06-10 22:40:25 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:40:25 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:40:26 - INFO - Phan tich UMAUSDT | Gia: 1.5170 | MA7: 1.5283 | MA25: 1.5356
+2025-06-10 22:40:26 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:40:26 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:40:26 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:40:26 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:40:26 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:40:26 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:40:26 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:40:26 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:41:27 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:41:27 - WARNING - ==================================================
+2025-06-10 22:41:27 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0693
+2025-06-10 22:41:27 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:41:27 - WARNING - Gia tai thoi diem tin hieu: 0.0693
+2025-06-10 22:41:27 - WARNING - ==================================================
+2025-06-10 22:41:27 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:41:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:41:27 - INFO - Phan tich UMAUSDT | Gia: 1.5120 | MA7: 1.5276 | MA25: 1.5354
+2025-06-10 22:41:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:41:27 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:41:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:41:27 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:41:27 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:41:28 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:41:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:41:28 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:42:28 - INFO - Phan tich BABYUSDT | Gia: 0.0693 | MA7: 0.0697 | MA25: 0.0697
+2025-06-10 22:42:28 - WARNING - ==================================================
+2025-06-10 22:42:28 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0693
+2025-06-10 22:42:28 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:42:28 - WARNING - Gia tai thoi diem tin hieu: 0.0693
+2025-06-10 22:42:28 - WARNING - ==================================================
+2025-06-10 22:42:28 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:42:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:42:28 - INFO - Phan tich UMAUSDT | Gia: 1.5150 | MA7: 1.5280 | MA25: 1.5355
+2025-06-10 22:42:28 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:42:29 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:42:29 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:42:29 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:42:29 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:42:29 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:42:29 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:42:29 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:43:29 - INFO - Phan tich BABYUSDT | Gia: 0.0694 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:43:29 - WARNING - ==================================================
+2025-06-10 22:43:29 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0694
+2025-06-10 22:43:29 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:43:29 - WARNING - Gia tai thoi diem tin hieu: 0.0694
+2025-06-10 22:43:29 - WARNING - ==================================================
+2025-06-10 22:43:30 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:43:30 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:43:30 - INFO - Phan tich UMAUSDT | Gia: 1.5160 | MA7: 1.5281 | MA25: 1.5355
+2025-06-10 22:43:30 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:43:30 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:43:30 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:43:30 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:43:30 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:43:31 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:43:31 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:43:31 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:44:31 - INFO - Phan tich BABYUSDT | Gia: 0.0696 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:44:31 - WARNING - ==================================================
+2025-06-10 22:44:31 - WARNING -  TIN HIEU HOP LE cho BAN: BABYUSDT | Gi: 0.0696
+2025-06-10 22:44:31 - WARNING - L do: MA7 da cat xuong MA25 v MA7 ang i xung.
+2025-06-10 22:44:31 - WARNING - Gia tai thoi diem tin hieu: 0.0696
+2025-06-10 22:44:31 - WARNING - ==================================================
+2025-06-10 22:44:31 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:44:31 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:44:31 - INFO - Phan tich UMAUSDT | Gia: 1.5170 | MA7: 1.5283 | MA25: 1.5356
+2025-06-10 22:44:31 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:44:32 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0527 | MA25: 0.0534
+2025-06-10 22:44:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:44:32 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:44:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:44:32 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:44:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:44:32 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:45:32 - INFO - Phan tich BABYUSDT | Gia: 0.0696 | MA7: 0.0696 | MA25: 0.0698
+2025-06-10 22:45:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:45:32 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:45:32 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:45:33 - INFO - Phan tich UMAUSDT | Gia: 1.5200 | MA7: 1.5249 | MA25: 1.5346
+2025-06-10 22:45:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:45:33 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:45:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:45:33 - INFO - Phan tich RVNUSDT | Gia: 0.0189 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:45:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:45:33 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:45:33 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:45:33 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:46:34 - INFO - Phan tich BABYUSDT | Gia: 0.0696 | MA7: 0.0696 | MA25: 0.0698
+2025-06-10 22:46:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:46:34 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:46:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:46:34 - INFO - Phan tich UMAUSDT | Gia: 1.5220 | MA7: 1.5251 | MA25: 1.5347
+2025-06-10 22:46:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:46:34 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:46:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:46:34 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:46:34 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:46:35 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:46:35 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:46:35 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:47:35 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0696 | MA25: 0.0698
+2025-06-10 22:47:35 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:47:35 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:47:35 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:47:35 - INFO - Phan tich UMAUSDT | Gia: 1.5220 | MA7: 1.5251 | MA25: 1.5347
+2025-06-10 22:47:35 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:47:36 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:47:36 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:47:36 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:47:36 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:47:36 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:47:36 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:47:36 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:48:36 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:48:36 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:48:37 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:48:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:48:37 - INFO - Phan tich UMAUSDT | Gia: 1.5230 | MA7: 1.5253 | MA25: 1.5348
+2025-06-10 22:48:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:48:37 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:48:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:48:37 - INFO - Phan tich RVNUSDT | Gia: 0.0189 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:48:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:48:37 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:48:37 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:48:37 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:49:38 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:49:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:49:38 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:49:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:49:38 - INFO - Phan tich UMAUSDT | Gia: 1.5240 | MA7: 1.5254 | MA25: 1.5348
+2025-06-10 22:49:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:49:38 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:49:38 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:49:39 - INFO - Phan tich RVNUSDT | Gia: 0.0189 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:49:39 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:49:39 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:49:39 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:49:39 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:50:39 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0696 | MA25: 0.0698
+2025-06-10 22:50:39 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:50:39 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:50:39 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:50:40 - INFO - Phan tich UMAUSDT | Gia: 1.5250 | MA7: 1.5256 | MA25: 1.5348
+2025-06-10 22:50:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:50:40 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:50:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:50:40 - INFO - Phan tich RVNUSDT | Gia: 0.0189 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:50:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:50:40 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:50:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:50:40 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:51:40 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:51:40 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:51:41 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:51:41 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:51:41 - INFO - Phan tich UMAUSDT | Gia: 1.5260 | MA7: 1.5257 | MA25: 1.5349
+2025-06-10 22:51:41 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:51:41 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:51:41 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:51:41 - INFO - Phan tich RVNUSDT | Gia: 0.0189 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:51:41 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:51:42 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:51:42 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:51:42 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:52:42 - INFO - Phan tich BABYUSDT | Gia: 0.0697 | MA7: 0.0696 | MA25: 0.0698
+2025-06-10 22:52:42 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:52:42 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:52:42 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:52:42 - INFO - Phan tich UMAUSDT | Gia: 1.5300 | MA7: 1.5263 | MA25: 1.5350
+2025-06-10 22:52:42 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:52:43 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:52:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:52:43 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:52:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:52:43 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:52:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:52:43 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:53:43 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:53:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:53:43 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:53:43 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:53:44 - INFO - Phan tich UMAUSDT | Gia: 1.5280 | MA7: 1.5260 | MA25: 1.5350
+2025-06-10 22:53:44 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:53:44 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:53:44 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:53:44 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:53:44 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:53:44 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:53:44 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:53:44 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:54:45 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:54:45 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:54:45 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:54:45 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:54:45 - INFO - Phan tich UMAUSDT | Gia: 1.5290 | MA7: 1.5261 | MA25: 1.5350
+2025-06-10 22:54:45 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:54:45 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:54:45 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:54:46 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:54:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:54:46 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:54:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:54:46 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:55:46 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:55:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:55:46 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:55:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:55:46 - INFO - Phan tich UMAUSDT | Gia: 1.5300 | MA7: 1.5263 | MA25: 1.5350
+2025-06-10 22:55:46 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:55:47 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:55:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:55:47 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:55:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:55:47 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:55:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:55:47 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:56:47 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:56:47 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:56:48 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:56:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:56:48 - INFO - Phan tich UMAUSDT | Gia: 1.5310 | MA7: 1.5264 | MA25: 1.5351
+2025-06-10 22:56:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:56:48 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:56:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:56:48 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:56:48 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:56:49 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:56:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:56:49 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:57:49 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:57:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:57:49 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:57:49 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:57:50 - INFO - Phan tich UMAUSDT | Gia: 1.5330 | MA7: 1.5267 | MA25: 1.5352
+2025-06-10 22:57:50 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:57:50 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0527 | MA25: 0.0533
+2025-06-10 22:57:50 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:57:50 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:57:50 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:57:50 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:57:50 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:57:50 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:58:51 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:58:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:58:51 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:58:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:58:51 - INFO - Phan tich UMAUSDT | Gia: 1.5340 | MA7: 1.5269 | MA25: 1.5352
+2025-06-10 22:58:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:58:51 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0527 | MA25: 0.0533
+2025-06-10 22:58:51 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:58:52 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:58:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:58:52 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:58:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:58:52 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 22:59:52 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0697 | MA25: 0.0698
+2025-06-10 22:59:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:59:52 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 22:59:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:59:52 - INFO - Phan tich UMAUSDT | Gia: 1.5340 | MA7: 1.5269 | MA25: 1.5352
+2025-06-10 22:59:52 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:59:53 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 22:59:53 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:59:53 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 22:59:53 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:59:53 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 22:59:53 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 22:59:53 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:00:53 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:00:53 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:00:54 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:00:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:00:54 - INFO - Phan tich UMAUSDT | Gia: 1.5290 | MA7: 1.5250 | MA25: 1.5347
+2025-06-10 23:00:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:00:54 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:00:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:00:54 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:00:54 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:00:55 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:00:55 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:00:55 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:01:55 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:01:55 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:01:55 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:01:55 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:01:55 - INFO - Phan tich UMAUSDT | Gia: 1.5340 | MA7: 1.5257 | MA25: 1.5349
+2025-06-10 23:01:55 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:01:56 - INFO - Phan tich SOPHUSDT | Gia: 0.0530 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:01:56 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:01:56 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:01:56 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:01:56 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:01:56 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:01:56 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:02:56 - INFO - Phan tich BABYUSDT | Gia: 0.0700 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:02:56 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:02:57 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:02:57 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:02:57 - INFO - Phan tich UMAUSDT | Gia: 1.5330 | MA7: 1.5256 | MA25: 1.5349
+2025-06-10 23:02:57 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:02:57 - INFO - Phan tich SOPHUSDT | Gia: 0.0531 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:02:57 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:02:58 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:02:58 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:02:58 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:02:58 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:02:58 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:03:58 - INFO - Phan tich BABYUSDT | Gia: 0.0700 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:03:58 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:03:59 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:03:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:03:59 - INFO - Phan tich UMAUSDT | Gia: 1.5330 | MA7: 1.5256 | MA25: 1.5349
+2025-06-10 23:03:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:03:59 - INFO - Phan tich SOPHUSDT | Gia: 0.0532 | MA7: 0.0529 | MA25: 0.0533
+2025-06-10 23:03:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:03:59 - INFO - Phan tich RVNUSDT | Gia: 0.0188 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:03:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:03:59 - INFO - Phan tich JSTUSDT | Gia: 0.0349 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:03:59 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:03:59 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:05:00 - INFO - Phan tich BABYUSDT | Gia: 0.0700 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:05:00 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:05:00 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:05:00 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:05:00 - INFO - Phan tich UMAUSDT | Gia: 1.5360 | MA7: 1.5260 | MA25: 1.5350
+2025-06-10 23:05:00 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:05:00 - INFO - Phan tich SOPHUSDT | Gia: 0.0531 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:05:00 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:05:01 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:05:01 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:05:01 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:05:01 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:05:01 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:06:01 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:06:01 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:06:01 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:06:01 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:06:02 - INFO - Phan tich UMAUSDT | Gia: 1.5360 | MA7: 1.5260 | MA25: 1.5350
+2025-06-10 23:06:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:06:02 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:06:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:06:02 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:06:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:06:02 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:06:02 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:06:02 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:07:03 - INFO - Phan tich BABYUSDT | Gia: 0.0698 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:07:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:07:03 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:07:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:07:03 - INFO - Phan tich UMAUSDT | Gia: 1.5330 | MA7: 1.5256 | MA25: 1.5349
+2025-06-10 23:07:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:07:03 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:07:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:07:03 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:07:03 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:07:04 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:07:04 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:07:04 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:08:04 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:08:04 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:08:04 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:08:04 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:08:04 - INFO - Phan tich UMAUSDT | Gia: 1.5330 | MA7: 1.5256 | MA25: 1.5349
+2025-06-10 23:08:04 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:08:05 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:08:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:08:05 - INFO - Phan tich RVNUSDT | Gia: 0.0186 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:08:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:08:05 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:08:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:08:05 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:09:05 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:09:05 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:09:06 - INFO - Phan tich IOSTUSDT | Gia: 0.0043 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:09:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:09:06 - INFO - Phan tich UMAUSDT | Gia: 1.5350 | MA7: 1.5259 | MA25: 1.5350
+2025-06-10 23:09:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:09:06 - INFO - Phan tich SOPHUSDT | Gia: 0.0527 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:09:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:09:06 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:09:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:09:06 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:09:06 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:09:06 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:10:07 - INFO - Phan tich BABYUSDT | Gia: 0.0699 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:10:07 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:10:07 - INFO - Phan tich IOSTUSDT | Gia: 0.0043 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:10:07 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:10:07 - INFO - Phan tich UMAUSDT | Gia: 1.5390 | MA7: 1.5264 | MA25: 1.5351
+2025-06-10 23:10:07 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:10:08 - INFO - Phan tich SOPHUSDT | Gia: 0.0528 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:10:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:10:08 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:10:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:10:08 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:10:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:10:08 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-10 23:11:08 - INFO - Phan tich BABYUSDT | Gia: 0.0700 | MA7: 0.0697 | MA25: 0.0699
+2025-06-10 23:11:08 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:11:09 - INFO - Phan tich IOSTUSDT | Gia: 0.0042 | MA7: 0.0042 | MA25: 0.0042
+2025-06-10 23:11:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:11:09 - INFO - Phan tich UMAUSDT | Gia: 1.5410 | MA7: 1.5267 | MA25: 1.5352
+2025-06-10 23:11:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:11:09 - INFO - Phan tich SOPHUSDT | Gia: 0.0529 | MA7: 0.0528 | MA25: 0.0533
+2025-06-10 23:11:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:11:09 - INFO - Phan tich RVNUSDT | Gia: 0.0187 | MA7: 0.0187 | MA25: 0.0188
+2025-06-10 23:11:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:11:09 - INFO - Phan tich JSTUSDT | Gia: 0.0350 | MA7: 0.0350 | MA25: 0.0347
+2025-06-10 23:11:09 - INFO - Khong co tin hieu mua. Tiep tuc theo doi...
+2025-06-10 23:11:09 - INFO - Cho 60 giay cho chu ky phan tich tiep theo...
+2025-06-15 15:26:48 - INFO - Ket noi den Binance API thanh cong!
+2025-06-15 15:26:48 - INFO - ==============================
+2025-06-15 15:26:48 - INFO - Bat dau chuong trinh theo doi tin hieu giao dich 
+2025-06-15 15:26:48 - INFO - Cap tien: BABYUSDT
+2025-06-15 15:26:48 - INFO - Khung thoi gian: 15m
+2025-06-15 15:26:48 - INFO - ==============================
+2025-06-15 15:26:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  managementCoin.get_item_coin(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:27:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  managementCoin.get_item_coin(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:28:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:29:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:30:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:31:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:32:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:33:48 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:34:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:35:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:36:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:37:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:38:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:39:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:40:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:41:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:42:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:43:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:44:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:45:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:46:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:47:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:48:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-15 15:49:49 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:38:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:39:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:40:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:41:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:42:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:43:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:44:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:45:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:46:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:47:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:48:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:49:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:50:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:51:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:52:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:53:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:54:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:55:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:56:19 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:57:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:58:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 03:59:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:00:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:01:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:02:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:03:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:04:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:05:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:06:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:07:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:08:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:09:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:10:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:11:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:12:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:13:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:14:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:15:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:16:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:17:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:18:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:19:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:20:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:21:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:22:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:23:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:24:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:25:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:26:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:27:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:28:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:29:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:30:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:31:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:32:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:33:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:34:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:35:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:36:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:37:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:38:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:39:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:40:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:41:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:42:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:43:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:44:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:45:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:46:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:47:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:48:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:49:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:50:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:51:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:52:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:53:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:54:20 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:57:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:58:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 04:59:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:00:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:01:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:02:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:03:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:04:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:05:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:06:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:07:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
+2025-06-17 05:08:33 - CRITICAL - Vong lap chinh gap loi nghiem trong!
+Traceback (most recent call last):
+  File "d:\Project\Python\Project\TracingBinance\binance_coin\services\trading_bot.py", line 153, in <module>
+    item: SellBuy =  get_item_coin_global(symbol)
+TypeError: ManagementCoin.get_item_coin() takes 1 positional argument but 2 were given
