@@ -3,6 +3,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 import os
+import sys
 
 from binance_coin.utils.common import AsciiFilter, SignalFilter
 
@@ -39,8 +40,11 @@ def getLog(name=None):
     file_handler.addFilter(ascii_filter)
 
     # --- Cấu hình handler cho console ---
-    stream_handler = logging.StreamHandler()
+    # --- FIX: Cấu hình handler cho console với flush ngay lập tức ---
+    stream_handler = logging.StreamHandler(sys.stdout)  # Chỉ định rõ stdout
     stream_handler.setLevel(log_level)
+    # FIX: Force flush sau mỗi log message
+    stream_handler.flush = lambda: sys.stdout.flush()
 
     # --- Cấu hình handler phu ghi lai chot (ghi mọi thứ vào trading_bot.log) ---
     # Dùng mode 'a' (append) để lưu lại lịch sử các tín hiệu qua mỗi lần chạy
@@ -55,9 +59,26 @@ def getLog(name=None):
     file_handler.setFormatter(formatter)
     stream_handler.setFormatter(formatter)
     signal_file_handler.setFormatter(formatter)
-
+    
+    # FIX: Clear handlers cũ để tránh duplicate
+    if logger.handlers:
+        logger.handlers.clear()
+    
     logger.addHandler(file_handler)
     logger.addHandler(stream_handler)
     logger.addHandler(signal_file_handler)
 
+    # FIX: Đảm bảo không bị propagate lên parent logger
+    logger.propagate = False
+
     return logger
+    
+# FIX: Thêm function để force flush toàn bộ system
+def flush_all_logs():
+    """Force flush tất cả output buffers"""
+    sys.stdout.flush()
+    sys.stderr.flush()
+    # Flush tất cả handlers
+    for handler in logging.getLogger().handlers:
+        if hasattr(handler, 'flush'):
+            handler.flush()

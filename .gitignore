@@ -8,3 +8,8 @@ config.yaml
 *.log
 trading_bot.log
 backup/
+.vscode/
+build/
+*.zip
+*.spec
+dist/

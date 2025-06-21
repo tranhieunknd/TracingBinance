@@ -21,4 +21,4 @@ class SignalFilter(logging.Filter):
         # Chuyển record.msg về string để xử lý an toàn
         msg_str = str(record.msg)
         # Chỉ cho phép các log chứa emoji tín hiệu hoặc dòng phân cách '==='
-        return 'MUA' in msg_str or 'BAN' in msg_str # or msg_str.startswith("=")
+        return 'MUA' in msg_str or 'BAN' in msg_str or 'BUY' in msg_str or 'SELL' in msg_str  # or msg_str.startswith("=")
